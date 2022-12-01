@@ -1,4 +1,3 @@
-// Incorrect guess: 203085 -- Too low
 package main
 
 import (

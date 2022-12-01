@@ -1,5 +1,3 @@
-// Incorrect guess: 11510256 -- Too high
-// Incorrect guess: 69796 -- Too low
 package main
 
 import (
