@@ -1,5 +1,3 @@
-// 13380 -- Too high
-
 package main
 
 import (
@@ -15,9 +13,6 @@ const (
 	lost int = 0
 	draw int = 3
 	won  int = 6
-
-	// Character differences in bytes to make A=X for rock paper scissors.
-	charDifference = 23
 )
 
 func main() {
